@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b43c00ea82b0564bb9a91fd9f442818, type: 3}
+  m_Name: ListaRecetas
+  m_EditorClassIdentifier: 
+  Recetas:
+  - Nombre: MediPack
+    Item1: {fileID: 11400000, guid: 3c24498b37eae93469d5fb2412b18f94, type: 2}
+    Item1CantidadRequerida: 1
+    Item2: {fileID: 11400000, guid: 461e62019b172bb448cef4473becfce1, type: 2}
+    Item2CantidadRequerida: 1
+    ItemResultado: {fileID: 11400000, guid: 8bdbb263a624a604baa01fdb154c57c8, type: 2}
+    ItemResultadoCantidad: 1

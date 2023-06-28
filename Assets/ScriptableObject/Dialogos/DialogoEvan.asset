@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a25ceb237f0cef64ea5403360cc2222d, type: 3}
+  m_Name: DialogoEvan
+  m_EditorClassIdentifier: 
+  Nombre: Evan
+  Icono: {fileID: 21300000, guid: 945d5a1f3e5180d4ea3761f681e58d02, type: 3}
+  ContieneInteraccionExtra: 0
+  InteraccionExtra: 0
+  Saludo: Hola Tsuriel,   seguro que deberias estar aqui?
+  Conversacion:
+  - Oracion: Nunca pense que nos volveriamos a ver de esta manera.
+  - Oracion: ' Siento mucho no haber  estado contigo cuando lo necesitabas. Pero
+      me alegra ver que estas bien, se te nota mas segura en ti misma.'
+  Despedida: Confiamos en ti Tsuriel, sabemos que lo conseguiras.

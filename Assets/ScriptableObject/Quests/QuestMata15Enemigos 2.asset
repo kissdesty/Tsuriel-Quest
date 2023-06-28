@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d22ea60aa1e8ce44b0296edb73ec0fd, type: 3}
+  m_Name: QuestMata15Enemigos 2
+  m_EditorClassIdentifier: 
+  Nombre: Cazador Experimientado
+  ID: Mata15
+  CantidadObjetivo: 15
+  Descripcion: Derrota 15 enemigos para entrenar un poco.
+  RecompensaOro: 50
+  RecompensaExp: 25
+  RecompensaItem:
+    Item: {fileID: 11400000, guid: 3c24498b37eae93469d5fb2412b18f94, type: 2}
+    Cantidad: 30
+  CantidadActual: 0
+  QuestCompletado: 0
